@@ -1,0 +1,16 @@
+div{
+    width: 23%;
+    height: 474px;
+    background-color: wheat;
+    border: solid 2px black;
+    float: left;
+    text-align: center;
+    padding: 10px;
+    /* margin-top: 200px; */
+    
+}
+img{
+    width:47%;
+    height: 200px;
+    border-radius: 0px;
+}
